@@ -1,0 +1,133 @@
+
+body{
+	background-color: #6495ED;
+	margin: 5px;
+	color: #F0FFF0;
+}
+
+.pic img {
+	width:30%;
+	height: 35%;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+
+.paragraph {
+	color: #F0FFF0;
+	width: 60%;
+	font-size:35px;
+	line-height: 34px;
+	float:right;
+	margin-right: 20px;
+	border-style:solid;
+	border-color: honeydew;
+	padding:5px;
+	box-shadow:  12px 12px navy;
+}
+
+h1{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #F0FFF0;
+	font-size: 100px;
+	text-align:center;
+	margin:auto; 
+	text-shadow:  4px 4px navy;
+}
+	
+.list1 {
+	background-color: navy;  
+	max-width:85%; 
+	font-size:25pt; 
+	padding-top:20px; 
+	padding-bottom:20px; 
+	margin:auto;
+	text-align: center;
+	word-spacing: 70px;
+	list-style: none;
+}
+.list1 a{
+	text-decoration: none;
+	color: #F0FFF0;
+}
+
+.contact {
+	display: block;
+ 	margin:auto;
+	text-align: center;
+	color: #F0FFF0;
+}
+
+.contact h1 {
+	font-size: 90px;
+}
+.contact li {
+	font-size: 40px;
+	line-height: 2;
+}
+.resume h1 {
+	font-size: 90px;
+}
+.sunset img {
+	width: 30%;
+}
+.gallery {
+	display: flex;
+	justify: center;
+}
+.gallery img {
+	margin-left: 20px;
+	margin-right: 15px;
+	margin-top: 20px;
+	width:30%;
+}
+.EDU h2 {
+	font-size: 35px;
+	margin: auto;
+}
+.EXP h2 {
+	font-size: 35px;
+	margin: auto;
+}
+.ACT h2 {
+	font-size: 35px;
+	margin: auto;
+}
+.EDU {
+	color: honeydew;
+	backround-color: navy;
+	border-color: honeydew;
+	border-style: solid;
+	border-width: medium;
+	margin-right: 75%;
+	box-shadow:  8px 8px navy;
+}
+.EXP {
+	color: honeydew;
+	backround-color: navy;
+	border-color: honeydew;
+	border-style: solid;
+	border-width: medium;
+	margin-right: 50%;
+	box-shadow:  8px 8px navy;
+}
+.ACT {
+	color: honeydew;
+	backround-color: navy;
+	border-color: honeydew;
+	border-style: solid;
+	border-width: medium;
+	margin-right: 25%;
+	box-shadow: 8px 8px navy;
+}
+
+
+
+
+
+
+
+
+
+
+
+
